@@ -453,6 +453,7 @@ Intro: Secure the new surface — guardrails, model-file safety and signing for 
 - [HackAgent](https://github.com/AISecurityLab/hackagent) - Red-team toolkit for AI models and agents: actively tests jailbreaks, prompt injection and tool misuse, then scores each reply with judge models for measured per-attack success rates. Used by AI security teams quantifying agent attack surface; the open-source AI red-teaming harness with built-in scoring. (Apache-2.0)
 - [weir](https://github.com/IdoGol24/weir) - Leak tests for AI agents: deterministically finds every place an agent exposes credentials in telemetry, model calls or other services. Used by agent developers testing their own deployments before release; a focused open-source AI-agent leak auditor. (Apache-2.0)
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - The community archive of leaked and reverse-engineered system prompts from ChatGPT, Claude, Gemini, Grok, Cursor and other major models — provenance-tagged and continuously updated. Used by AI governance teams auditing prompt transparency and researchers studying instruction leakage; the reference corpus for prompt-disclosure audits. (AGPL-3.0, copyleft)
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first policy checks for AI coding-agent tool calls, including supported shell, file, package and MCP actions. (Apache-2.0) (maintainer's project)
 
 ## 🧠 The AI Forge — AI-Dependent Security Tools
 
