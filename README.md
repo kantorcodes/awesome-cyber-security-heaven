@@ -443,6 +443,7 @@ Intro: Detect, hunt, forensicate — the defensive operations toolkit.
 ## 🤖 The Oracle's Domain — AI Security & LLM Security Tools
 Intro: Secure the new surface — guardrails, model-file safety and signing for AI-powered applications.
 
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Open-source local guard for supported AI coding agents: reviews risky commands and tool calls before execution. (maintainer's project)
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Programmable guardrail layer for LLM apps: input/output rails, dialog safety, topic control. Used by AI engineers adding safety rails to LLM apps; NVIDIA's open-source guardrail toolkit for production deployments.
 - [modelscan](https://github.com/protectai/modelscan) - Scan model files (pickle, safetensors) for malicious code before you load them — supply-chain defense for ML. Used by AI security teams scanning model files for pickle and format exploits; the open-source scanner for ML supply chains.
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org) - The standard risk taxonomy for LLM apps; the shared language for AI threat modeling. Used by AppSec teams auditing LLM systems; the industry-standard risk list everyone maps AI security to.
