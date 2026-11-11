@@ -1012,6 +1012,8 @@ Intro: Secure the new surface — guardrails, model-file safety and signing for 
 - [SmartScanner](https://www.thesmartscanner.com/) - AI-driven web vulnerability assessment tool that automates security scanning for websites, APIs, and web applications. Used by web security testers; a commercial scanner with a free tier for automated checks. (free tier)
 - [ZeroTrust](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device WebGPU AI, scoring trust from HTTPS and phishing signals. Used by privacy-conscious users; a local AI security assessor. (MIT)
 
+- [HOL Guard](https://hol.org/guard) - Open-source security for AI coding agents; use it to check shell commands and MCP tool calls before they run. (maintainer's project)
+
 ## 🧠 The AI Forge — AI-Dependent Security Tools
 
 Intro: Security tools with an LLM as the engine — red-team agents, pentest copilots and scenario
